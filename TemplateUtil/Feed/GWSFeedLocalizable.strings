@@ -1,0 +1,87 @@
+/* 
+  GWSFeedStringConstants.strings
+  SocialNetwork
+
+  Created by Jared Sullivan and Duy Bui on 12/12/19.
+  Copyright © 2022 Lawn and Order. All rights reserved.
+*/
+"No Posts" = "لا توجد مشاركات";
+"Posts from your friends will show up here. Add some friends to see their posts, stories and messages." = "ستظهر هنا منشورات أصدقائك. أضف بعض الأصدقاء لمشاهدة مشاركاتهم وقصصهم ورسائلهم.";
+"Add Story" = "أضف قصة";
+" just reacted to your post." = "كان رد فعلك فقط على رسالتك.";
+" commented on your post." = "علق على مشاركتك.";
+"Yesterday at 9:56 am" = "أمس الساعة 9:56 صباحًا";
+"This is just a comment" = "هذا مجرد تعليق";
+"This is just a notification" = "هذا مجرد إخطار";
+"2 hours ago" = "منذ 2 ساعات";
+"Reported!" = "وذكرت!";
+"The post has been reported." = "تم الإبلاغ عن المشاركة.";
+"Blocked!" = "محظور!";
+"The user has been blocked." = "تم حظر المستخدم.";
+"Report" = "أبلغ عن";
+"Select the reason of reporting: " = "حدد سبب الإبلاغ:";
+"Sensitive Images" = "الصور الحساسة";
+"Spam" = "بريد مؤذي";
+"Abusive" = "المسيئة";
+"Harmful" = "مضر";
+"More" = "أكثر من";
+"Block User" = "مستخدم محضور";
+"Report Post" = "الإبلاغ عن مشاركة";
+"Share Post" = "آخر حصة";
+"Delete Post" = "حذف آخر";
+"location not available " = "الموقع غير متاح";
+"Create Post" = "إنشاء مشاركة";
+"Post" = "بريد";
+"Add photo to your post" = "أضف صورة إلى مشاركتك";
+"Add to your post" = "أضف إلى رسالتك";
+"Friends" = "اصحاب";
+"No Friends" = "لا أصدقاء";
+"Your friends will show up here. Add some friends to see their posts, stories and messages." = "سيظهر أصدقاؤك هنا. أضف بعض الأصدقاء لمشاهدة منشوراتهم وقصصهم ورسائلهم.";
+"Search" = "بحث";
+" accepted your friend request" = "قبلت طلب صديقك";
+"Popular posts will show up here." = "المشاركات الشعبية ستظهر هنا.";
+"Discover" = "اكتشف";
+"All Friends" = "كل الأصدقاء";
+"Notifications" = "الإخطارات";
+"Detail Post" = "نشر التفاصيل";
+"Add Comment to this Post" = "أضف تعليق على هذا المنشور";
+"Feed" = "تغذية";
+"See All Friends" = "انظر جميع الأصدقاء";
+"Profile Settings" = "إعدادات الملف الشخصي";
+"Add Friend" = "أضف صديق";
+"Send Message" = "إرسال رسالة";
+"See All Friends" = "انظر جميع الأصدقاء";
+"Profile" = "الملف الشخصي";
+"Account Details" = "تفاصيل الحساب";
+"Settings" = "الإعدادات";
+"Log Out" = "الخروج";
+"General" = "جنرال لواء";
+"Send Message" = "إرسال رسالة";
+"No Blocked Users" = "لا يوجد مستخدمون محظورون";
+"You haven't blocked nor reported anyone yet. The users that you block or report will show up here." = "لم تحظر أو تبلغ عن أي شخص حتى الآن. سيظهر المستخدمون الذين تحظرهم أو تبلغهم هنا";
+"Blocked Users" = "مستخدمين محجوبين";
+"unblock" = "رفع الحظر";
+"Photo Upload" = "رفع صورة";
+"Camera" = "آلة تصوير";
+"Library" = "مكتبة";
+"Close" = "يغلق";
+"Welcome to Lawn and Order" = "مرحبًا بك في Lawn and Order";
+"Use this codebase to build your own Instagram clone in minutes." = "استخدم قاعدة الشفرة هذه لإنشاء استنساخ Instagram الخاص بك في دقائق.";
+"Write a caption..." = "اكتب شرحا...";
+"Add location" = "إضافة موقع";
+"New Post" = "منشور جديد";
+"Share" = "يشارك";
+"No Notifications" = "لا إشعارات";
+"You currently do not have any notifications. Your notifications will show up here." = "ليس لديك حاليًا أي إشعارات. ستظهر إشعاراتك هنا.";
+"Add a Comment" = "اضف تعليق";
+"commented on your post" = "علق على مشاركتك";
+"Select the reason of reporting:" = "حدد سبب الإبلاغ:";
+"likes" = "الإعجابات";
+"View all" = "عرض الكل";
+"comments" = "تعليقات";
+"Change Photo" = "غير الصوره";
+"Change your profile photo" = "تغيير صورة ملفك الشخصي";
+"Remove Photo" = "إزالة الصورة";
+"There are currently no posts on this profile. All the posts will show up here." = "لا توجد حاليًا أي مشاركات في هذا الملف الشخصي. ستظهر جميع المشاركات هنا.";
+"Add Your First Post" = "أضف منشورك الأول";
+"Address" = "عنوان";
